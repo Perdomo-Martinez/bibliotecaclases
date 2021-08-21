@@ -1,0 +1,10 @@
+C:\Users\marti\source\repos\bibliotecaclases\usodebiblioteca2\bin\Debug\usodebiblioteca2.exe.config
+C:\Users\marti\source\repos\bibliotecaclases\usodebiblioteca2\bin\Debug\usodebiblioteca2.exe
+C:\Users\marti\source\repos\bibliotecaclases\usodebiblioteca2\bin\Debug\usodebiblioteca2.pdb
+C:\Users\marti\source\repos\bibliotecaclases\usodebiblioteca2\bin\Debug\bibliotecaclases.dll
+C:\Users\marti\source\repos\bibliotecaclases\usodebiblioteca2\bin\Debug\bibliotecaclases.pdb
+C:\Users\marti\source\repos\bibliotecaclases\usodebiblioteca2\obj\Debug\usodebiblioteca2.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\bibliotecaclases\usodebiblioteca2\obj\Debug\usodebiblioteca2.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\bibliotecaclases\usodebiblioteca2\obj\Debug\usodebiblioteca2.csproj.CopyComplete
+C:\Users\marti\source\repos\bibliotecaclases\usodebiblioteca2\obj\Debug\usodebiblioteca2.exe
+C:\Users\marti\source\repos\bibliotecaclases\usodebiblioteca2\obj\Debug\usodebiblioteca2.pdb

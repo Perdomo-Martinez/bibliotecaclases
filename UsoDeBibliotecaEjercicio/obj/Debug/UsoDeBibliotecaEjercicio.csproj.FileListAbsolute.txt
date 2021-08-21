@@ -1,0 +1,10 @@
+C:\Users\marti\source\repos\bibliotecaclases\UsoDeBibliotecaEjercicio\bin\Debug\UsoDeBibliotecaEjercicio.exe.config
+C:\Users\marti\source\repos\bibliotecaclases\UsoDeBibliotecaEjercicio\bin\Debug\UsoDeBibliotecaEjercicio.exe
+C:\Users\marti\source\repos\bibliotecaclases\UsoDeBibliotecaEjercicio\bin\Debug\UsoDeBibliotecaEjercicio.pdb
+C:\Users\marti\source\repos\bibliotecaclases\UsoDeBibliotecaEjercicio\bin\Debug\BibliotecaEjercicio1.dll
+C:\Users\marti\source\repos\bibliotecaclases\UsoDeBibliotecaEjercicio\bin\Debug\BibliotecaEjercicio1.pdb
+C:\Users\marti\source\repos\bibliotecaclases\UsoDeBibliotecaEjercicio\obj\Debug\UsoDeBibliotecaEjercicio.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\bibliotecaclases\UsoDeBibliotecaEjercicio\obj\Debug\UsoDeBibliotecaEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\bibliotecaclases\UsoDeBibliotecaEjercicio\obj\Debug\UsoDeBibliotecaEjercicio.csproj.CopyComplete
+C:\Users\marti\source\repos\bibliotecaclases\UsoDeBibliotecaEjercicio\obj\Debug\UsoDeBibliotecaEjercicio.exe
+C:\Users\marti\source\repos\bibliotecaclases\UsoDeBibliotecaEjercicio\obj\Debug\UsoDeBibliotecaEjercicio.pdb

@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\bibliotecaclases\bibliotecaclases\bin\Debug\bibliotecaclases.dll
+C:\Users\marti\source\repos\bibliotecaclases\bibliotecaclases\bin\Debug\bibliotecaclases.pdb
+C:\Users\marti\source\repos\bibliotecaclases\bibliotecaclases\obj\Debug\bibliotecaclases.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\bibliotecaclases\bibliotecaclases\obj\Debug\bibliotecaclases.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\bibliotecaclases\bibliotecaclases\obj\Debug\bibliotecaclases.dll
+C:\Users\marti\source\repos\bibliotecaclases\bibliotecaclases\obj\Debug\bibliotecaclases.pdb
